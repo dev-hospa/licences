@@ -10,7 +10,8 @@ except:
     print("no such file in directory, please check the name on line 4")
 
 # List of column's names, which we need
-column_names = ["company name",
+column_names = ["AccountSkuId",
+                "company name",
                 "profit center",
                 "BU"
                 ]
